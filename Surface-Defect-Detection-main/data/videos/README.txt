@@ -1,0 +1,1 @@
+Place sample video files here for real-time defect detection (optional). 

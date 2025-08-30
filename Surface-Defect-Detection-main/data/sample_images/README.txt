@@ -1,0 +1,1 @@
+Place sample steel strip images here for testing defect detection. 

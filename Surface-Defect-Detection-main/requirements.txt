@@ -1,0 +1,9 @@
+opencv-python
+numpy
+matplotlib
+torch
+torchvision
+Pillow
+streamlit
+# The following often pulls many deps and needs specific versions; leaving out by default.
+# If you prefer hub-free YOLO, consider: ultralytics==8.0.196
